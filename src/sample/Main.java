@@ -8,6 +8,7 @@ public class Main {
         System.out.println("hello world");
         System.out.println("hello Akin");
         System.out.println("kdjfkljfklsdjfklas");
+        System.out.println("hello Ali ");
     }
 }
 
